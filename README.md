@@ -27,7 +27,7 @@ Run the following commands in your terminal:
 ### 1. Clone this repository
 
 ```bash
-git clone [https://github.com/tanujbansal06/Ganesha-python-sketch.git](https://github.com/Gracyclub/Ganesha-Python-Sketch.git)
+git clone [https://github.com/tanujbansal06/Ganesha-python-sketch.git](https://github.com/tanujbansal06/Ganesha-python-sketch.git)
 ```
 
 ### 2. Navigate to the project directory
