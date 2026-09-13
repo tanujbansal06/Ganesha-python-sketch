@@ -33,7 +33,7 @@ git clone [https://github.com/tanujbansal06/Ganesha-python-sketch.git](https://g
 ### 2. Navigate to the project directory
 
 ```bash
-cd Ganesha-Python-Sketch
+cd Ganesha-python-sketch
 ```
 
 ### 3. Run the Python script
